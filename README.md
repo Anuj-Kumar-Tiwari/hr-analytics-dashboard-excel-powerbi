@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E53935&center=true&vCenter=true&width=700&lines=👥+HR+Analytics+Dashboard;Power+BI+%2B+DAX+Portfolio+Project;Decoding+Employee+Attrition+Patterns" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E53935&center=true&vCenter=true&width=700&lines=HR+Analytics+Dashboard;Power+BI+%2B+DAX+Portfolio+Project;Decoding+Employee+Attrition+Patterns" alt="Typing SVG" />
+</p>
 
 <br/>
 
