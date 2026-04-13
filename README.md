@@ -60,7 +60,7 @@ I created several custom measures to power the dashboard visuals, including:
 ├── 📄 hr-employee-attrition-data.csv     # Raw Dataset
 ├── 📝 hr_analytics_report.pdf            # Detailed Summary & Findings
 └── 📝 README.md                          # Project Documentation
-```                      # Project Documentation
+                     # Project Documentation
 ``` 
 ---
 
